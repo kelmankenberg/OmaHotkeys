@@ -4,6 +4,10 @@ An Omarchy top-bar widget for managing command and text keyboard shortcuts, with
 live conflict checking against native and custom Hyprland bindings. Includes a
 searchable shortcut table, import/export, and persistent deletion undo.
 
+![OmaHotkeys showing command and text shortcuts, individual toggles, and undo deletion](docs/images/omahotkeys.png)
+
+*Screen capture using fictional shortcut names and values.*
+
 Previously named OmaShortcuts. The internal plugin ID (`kel.omashortcuts`),
 storage paths, and generated binding markers retain their original names for
 compatibility. Existing shortcuts and visibility preferences need no migration.
